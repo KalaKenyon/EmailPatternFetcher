@@ -1,4 +1,4 @@
-```markdown
+
 # Hunter.io Domain Email Pattern Fetcher
 
 This script uses the Hunter.io API to fetch the common email format used by a given domain, such as `first.last@company.com`.
