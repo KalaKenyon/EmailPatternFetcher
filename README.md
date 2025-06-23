@@ -41,5 +41,4 @@ Get your API key here: [https://hunter.io](https://hunter.io)
 ## 🛡️ Disclaimer
 
 This tool is for educational and ethical use only.
-```
 
